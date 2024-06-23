@@ -37,7 +37,7 @@ found savefile at 4740820992
 Save 127, Male KhajiitRace AKislota 43lvl at Скулдафн - Храм, 037.46.29
 ```
 
-i used this [https://en.m.uesp.net/wiki/Skyrim_Mod:Save_File_Format] wiki page while making essrec
+i used this https://en.m.uesp.net/wiki/Skyrim_Mod:Save_File_Format wiki page while making essrec
 
 it is possible to recover .ess saves because it can be read without known file size, so works when fs
 was formatted multiple times
